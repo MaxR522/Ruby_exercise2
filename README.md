@@ -50,15 +50,15 @@ pour avoir la liste exostive des cryptocurrencies du moment et aussi:
 P.S:vous pouvez changer les données dans le variable "data" pour pouvoir tester vos propres donner.
 
 ## Auteurs
-MIRINDRA
+MIRINDRA SOLOFONIAINA
 
-MARIO
+RANDRIANOMEARISOA Mario
 
-JULES
+Rajerison Jules Raharimalala
 
-HAJATAHIANA
+RAZAFIMAHATRATRA Hajatiana Patrick
 
-HEZEKIA
+Andriatsarniaina Hezekia
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
